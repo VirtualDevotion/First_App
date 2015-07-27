@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppLight" parent="android:Theme.Material.Light.DarkActionBar">
+
+    </style>
+    <style name="AppDark" parent="android:Theme.Material">
+
+    </style>
+
+</resources>

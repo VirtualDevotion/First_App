@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">cfdowningtown</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="exit_title">Exit</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="calvary_fellowship_label">Calvary Fellowship</string>
+    <string name="home_label">Home</string>
+    <string name="about_label">About</string>
+    <string name="events_label">Events</string>
+    <string name="ministries_label">Ministries</string>
+    <string name="resources_label">Resources</string>
+    <string name="prayer_request_label">Prayer Request</string>
+    <string name="give_label">Give</string>
+
+    <string name="email_label">Email*</string>
+    <string name="email_hint">id@emaildomain.com</string>
+    <string name="name_label">Name*</string>
+    <string name="phone_label">Phone*</string>
+    <string name="first_name_hint">First</string>
+    <string name="last_name_hint">Last</string>
+    <string name="explanation_label">How can we help you?</string>
+    <string name="enter_text_hint">Please explain here…</string>
+    <string name="form_button_label">Send</string>
+    <string name="newlywed_title">Newlyweds</string>
+    <string name="newlywed_intro_text">Designed for couples married 5 years or less, this
+        is a 2-year cycle with teaching that enriches your relationship with your spouse,
+        your in-laws, and eventually even your kids.\n From finances to resolving conflict,
+        you\'ll find this class not just a great place to make friends, but a time to grow
+        in your marriage.\n If you\'ve been married 5 years or less, you\'re invited to try
+        it out.  And if you have any questions, fill out the quick form. One of our
+        leaders will get back to you shortly!</string>
+    <string name="continue_to_form_button_label">Continue to form…</string>
+    <string name="calvary_phone">6103637171</string>
+
+
+</resources>

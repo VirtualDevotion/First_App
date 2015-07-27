@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="AppLight" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    </style>
+    <style name="AppDark" parent="android:Theme.Holo">
+
+    </style>
+    <style name="header1" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#9e492b</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="header1.header2">
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="header1.header3">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
